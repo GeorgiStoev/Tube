@@ -1,0 +1,36 @@
+C:\Users\Georgi\source\repos\Tube\Tube.Data\bin\Debug\netstandard2.0\Tube.Data.deps.json
+C:\Users\Georgi\source\repos\Tube\Tube.Data\bin\Debug\netstandard2.0\Tube.Data.dll
+C:\Users\Georgi\source\repos\Tube\Tube.Data\bin\Debug\netstandard2.0\Tube.Data.pdb
+C:\Users\Georgi\source\repos\Tube\Tube.Data\obj\Debug\netstandard2.0\Tube.Data.csprojAssemblyReference.cache
+C:\Users\Georgi\source\repos\Tube\Tube.Data\obj\Debug\netstandard2.0\Tube.Data.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\source\repos\Tube\Tube.Data\obj\Debug\netstandard2.0\Tube.Data.AssemblyInfoInputs.cache
+C:\Users\Georgi\source\repos\Tube\Tube.Data\obj\Debug\netstandard2.0\Tube.Data.AssemblyInfo.cs
+C:\Users\Georgi\source\repos\Tube\Tube.Data\obj\Debug\netstandard2.0\Tube.Data.dll
+C:\Users\Georgi\source\repos\Tube\Tube.Data\obj\Debug\netstandard2.0\Tube.Data.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Data\bin\Debug\netstandard2.0\Tube.Data.deps.json
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Data\bin\Debug\netstandard2.0\Tube.Data.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Data\bin\Debug\netstandard2.0\Tube.Data.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Data\obj\Debug\netstandard2.0\Tube.Data.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Data\obj\Debug\netstandard2.0\Tube.Data.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Data\obj\Debug\netstandard2.0\Tube.Data.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Data\obj\Debug\netstandard2.0\Tube.Data.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Data\obj\Debug\netstandard2.0\Tube.Data.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Data\obj\Debug\netstandard2.0\Tube.Data.csprojAssemblyReference.cache
+C:\Users\Georgi\Desktop\Tube-master\Tube.Data\bin\Debug\netstandard2.0\Tube.Data.deps.json
+C:\Users\Georgi\Desktop\Tube-master\Tube.Data\bin\Debug\netstandard2.0\Tube.Data.dll
+C:\Users\Georgi\Desktop\Tube-master\Tube.Data\bin\Debug\netstandard2.0\Tube.Data.pdb
+C:\Users\Georgi\Desktop\Tube-master\Tube.Data\obj\Debug\netstandard2.0\Tube.Data.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\Tube-master\Tube.Data\obj\Debug\netstandard2.0\Tube.Data.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\Tube-master\Tube.Data\obj\Debug\netstandard2.0\Tube.Data.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube.Data\obj\Debug\netstandard2.0\Tube.Data.dll
+C:\Users\Georgi\Desktop\Tube-master\Tube.Data\obj\Debug\netstandard2.0\Tube.Data.pdb
+C:\Users\Georgi\Desktop\Tube-master\Tube.Data\obj\Debug\netstandard2.0\Tube.Data.csprojAssemblyReference.cache
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Data\bin\Debug\netstandard2.0\Tube.Data.deps.json
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Data\bin\Debug\netstandard2.0\Tube.Data.dll
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Data\bin\Debug\netstandard2.0\Tube.Data.pdb
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Data\obj\Debug\netstandard2.0\Tube.Data.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Data\obj\Debug\netstandard2.0\Tube.Data.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Data\obj\Debug\netstandard2.0\Tube.Data.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Data\obj\Debug\netstandard2.0\Tube.Data.dll
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Data\obj\Debug\netstandard2.0\Tube.Data.pdb
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Data\obj\Debug\netstandard2.0\Tube.Data.csprojAssemblyReference.cache

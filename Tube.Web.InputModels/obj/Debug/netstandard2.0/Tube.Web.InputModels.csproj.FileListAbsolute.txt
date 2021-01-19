@@ -1,0 +1,38 @@
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Web.InputModels\bin\Debug\netstandard2.0\Tube.Web.InputModels.deps.json
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Web.InputModels\bin\Debug\netstandard2.0\Tube.Web.InputModels.dll
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Web.InputModels\bin\Debug\netstandard2.0\Tube.Web.InputModels.pdb
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Web.InputModels\obj\Debug\netstandard2.0\Tube.Web.InputModels.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Web.InputModels\obj\Debug\netstandard2.0\Tube.Web.InputModels.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Web.InputModels\obj\Debug\netstandard2.0\Tube.Web.InputModels.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Web.InputModels\obj\Debug\netstandard2.0\Tube.Web.InputModels.dll
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Web.InputModels\obj\Debug\netstandard2.0\Tube.Web.InputModels.pdb
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Web.InputModels\bin\Debug\netstandard2.0\Tube.Data.Models.dll
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Web.InputModels\bin\Debug\netstandard2.0\Tube.Data.Models.pdb
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Web.InputModels\obj\Debug\netstandard2.0\Tube.Web.InputModels.csprojAssemblyReference.cache
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Web.InputModels\obj\Debug\netstandard2.0\Tube.Web.InputModels.csproj.CopyComplete
+C:\Users\Georgi\Desktop\Tube\Tube.Web.InputModels\bin\Debug\netstandard2.0\Tube.Web.InputModels.deps.json
+C:\Users\Georgi\Desktop\Tube\Tube.Web.InputModels\bin\Debug\netstandard2.0\Tube.Web.InputModels.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Web.InputModels\bin\Debug\netstandard2.0\Tube.Web.InputModels.pdb
+C:\Users\Georgi\Desktop\Tube\Tube.Web.InputModels\bin\Debug\netstandard2.0\Tube.Data.Models.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Web.InputModels\bin\Debug\netstandard2.0\Tube.Data.Models.pdb
+C:\Users\Georgi\Desktop\Tube\Tube.Web.InputModels\obj\Debug\netstandard2.0\Tube.Web.InputModels.csprojAssemblyReference.cache
+C:\Users\Georgi\Desktop\Tube\Tube.Web.InputModels\obj\Debug\netstandard2.0\Tube.Web.InputModels.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\Tube\Tube.Web.InputModels\obj\Debug\netstandard2.0\Tube.Web.InputModels.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\Tube\Tube.Web.InputModels\obj\Debug\netstandard2.0\Tube.Web.InputModels.csproj.CopyComplete
+C:\Users\Georgi\Desktop\Tube\Tube.Web.InputModels\obj\Debug\netstandard2.0\Tube.Web.InputModels.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Web.InputModels\obj\Debug\netstandard2.0\Tube.Web.InputModels.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Web.InputModels\bin\Debug\netstandard2.0\Tube.Web.InputModels.deps.json
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Web.InputModels\bin\Debug\netstandard2.0\Tube.Web.InputModels.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Web.InputModels\bin\Debug\netstandard2.0\Tube.Web.InputModels.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Web.InputModels\bin\Debug\netstandard2.0\Tube.Data.Models.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Web.InputModels\bin\Debug\netstandard2.0\Tube.Data.Models.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Web.InputModels\obj\Debug\netstandard2.0\Tube.Web.InputModels.csprojAssemblyReference.cache
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Web.InputModels\obj\Debug\netstandard2.0\Tube.Web.InputModels.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Web.InputModels\obj\Debug\netstandard2.0\Tube.Web.InputModels.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Web.InputModels\obj\Debug\netstandard2.0\Tube.Web.InputModels.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Web.InputModels\obj\Debug\netstandard2.0\Tube.Web.InputModels.csproj.CopyComplete
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Web.InputModels\obj\Debug\netstandard2.0\Tube.Web.InputModels.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Web.InputModels\obj\Debug\netstandard2.0\Tube.Web.InputModels.pdb
+C:\Users\Georgi\Desktop\Tube\Tube.Web.InputModels\bin\Debug\netstandard2.0\Tube.Common.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Web.InputModels\bin\Debug\netstandard2.0\Tube.Common.pdb
+C:\Users\Georgi\Desktop\Tube\Tube.Web.InputModels\obj\Debug\netstandard2.0\Tube.Web.InputModels.csproj.CoreCompileInputs.cache

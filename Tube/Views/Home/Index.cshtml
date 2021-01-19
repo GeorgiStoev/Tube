@@ -1,0 +1,58 @@
+﻿@using Tube.Web.ViewModels.Video
+@model List<VideoViewModel>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link rel="stylesheet" href="~/css/reset-css.css" />
+<link rel="stylesheet" href="~/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/style.css" />
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<div>
+    <form class="form-inline active-cyan-4 pt-2">
+        <h3 class="text-primary">Welcome to Tube</h3>
+        <hr class="bg-primary hr1" />
+        <div class="align-content-lg-end">
+            <a asp-controller="Home" asp-action="MusicVideos" class="btn btn-outline-success align-center m-2">Music</a>
+            <a asp-controller="Home" asp-action="NewsVideos" class="btn btn-outline-success align-center m-2">News</a>
+            <a asp-controller="Home" asp-action="TvVideos" class="btn btn-outline-success align-center m-2">TV</a>
+            <a asp-controller="Home" asp-action="SportVideos" class="btn btn-outline-success align-center m-2">Sport</a>
+
+            <a asp-controller="Home" asp-action="All" class="btn btn-outline-primary text-left">All Videos</a>
+            <a asp-controller="Home" asp-action="MostViewed" class="btn btn-outline-primary text-left">Most Viewed</a>
+            <a asp-controller="Home" asp-action="MostLiked" class="btn btn-outline-primary text-left">Most Liked</a>
+            <a asp-controller="Home" asp-action="MostCommend" class="btn btn-outline-primary text-left">Most Commend</a>
+            <a asp-controller="Videos" asp-action="Search" class="btn btn-outline-danger text-left">Search</a>
+        </div>
+        <hr class="w-100 h-50 bg-success" />
+    </form>
+</div>
+<div class="row justify-content-around">
+    @foreach (var video in Model)
+     {
+        <div class="col-4 pt-1">
+            <div>
+                <div>
+                    <video width="320" height="200">
+                        <source src="@video.VideoUrl#t=3.00" type="video/mp4" />
+                    </video>
+                </div>
+                <p class="align-center">
+                    <h6 class="text-center text-primary pt-1">@video.Name</h6>
+                <p class="text-left font-weight-light"><small><strong>@video.Views Views</strong></small></p>
+                <p class="text-left font-weight-light"><small>Published on: @video.Date</small></p>
+                @if (this.User.Identity.IsAuthenticated)
+                {
+                    <a asp-controller="Videos" asp-action="Watch" asp-route-id="@video.Id" class="btn btn-outline-primary text-left">Play</a> 
+                }
+                else
+                {
+                    <a asp-controller="Videos" asp-action="GuestWatch" asp-route-id="@video.Id" class="btn btn-outline-warning text-left">Play</a>
+                }
+            </div>
+        </div>
+
+     }
+</div>

@@ -1,0 +1,48 @@
+C:\Users\Georgi\source\repos\Tube\Tube.Domain\bin\Debug\netstandard2.0\Tube.Domain.deps.json
+C:\Users\Georgi\source\repos\Tube\Tube.Domain\bin\Debug\netstandard2.0\Tube.Domain.dll
+C:\Users\Georgi\source\repos\Tube\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.csprojAssemblyReference.cache
+C:\Users\Georgi\source\repos\Tube\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\source\repos\Tube\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.AssemblyInfoInputs.cache
+C:\Users\Georgi\source\repos\Tube\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.AssemblyInfo.cs
+C:\Users\Georgi\source\repos\Tube\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.csproj.CopyComplete
+C:\Users\Georgi\source\repos\Tube\Tube.Domain\bin\Debug\netstandard2.0\Tube.Domain.pdb
+C:\Users\Georgi\source\repos\Tube\Tube.Domain\bin\Debug\netstandard2.0\Tube.Data.dll
+C:\Users\Georgi\source\repos\Tube\Tube.Domain\bin\Debug\netstandard2.0\Tube.Data.pdb
+C:\Users\Georgi\source\repos\Tube\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.dll
+C:\Users\Georgi\source\repos\Tube\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Domain\bin\Debug\netstandard2.0\Tube.Domain.deps.json
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Domain\bin\Debug\netstandard2.0\Tube.Domain.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Domain\bin\Debug\netstandard2.0\Tube.Domain.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Domain\bin\Debug\netstandard2.0\Tube.Data.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Domain\bin\Debug\netstandard2.0\Tube.Data.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.csprojAssemblyReference.cache
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.csproj.CopyComplete
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.pdb
+C:\Users\Georgi\Desktop\Tube-master\Tube.Domain\bin\Debug\netstandard2.0\Tube.Domain.deps.json
+C:\Users\Georgi\Desktop\Tube-master\Tube.Domain\bin\Debug\netstandard2.0\Tube.Domain.dll
+C:\Users\Georgi\Desktop\Tube-master\Tube.Domain\bin\Debug\netstandard2.0\Tube.Domain.pdb
+C:\Users\Georgi\Desktop\Tube-master\Tube.Domain\bin\Debug\netstandard2.0\Tube.Data.dll
+C:\Users\Georgi\Desktop\Tube-master\Tube.Domain\bin\Debug\netstandard2.0\Tube.Data.pdb
+C:\Users\Georgi\Desktop\Tube-master\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.csprojAssemblyReference.cache
+C:\Users\Georgi\Desktop\Tube-master\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\Tube-master\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\Tube-master\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.csproj.CopyComplete
+C:\Users\Georgi\Desktop\Tube-master\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.dll
+C:\Users\Georgi\Desktop\Tube-master\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.pdb
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.csprojAssemblyReference.cache
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.dll
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.pdb
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Domain\bin\Debug\netstandard2.0\Tube.Domain.deps.json
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Domain\bin\Debug\netstandard2.0\Tube.Domain.dll
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Domain\bin\Debug\netstandard2.0\Tube.Domain.pdb
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Domain\bin\Debug\netstandard2.0\Tube.Data.dll
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Domain\bin\Debug\netstandard2.0\Tube.Data.pdb
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Domain\obj\Debug\netstandard2.0\Tube.Domain.csproj.CopyComplete

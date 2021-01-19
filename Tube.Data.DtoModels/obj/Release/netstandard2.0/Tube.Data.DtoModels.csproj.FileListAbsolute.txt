@@ -1,0 +1,11 @@
+C:\Users\Georgi\Desktop\Tube\Tube.Data.DtoModels\bin\Release\netstandard2.0\Tube.Data.DtoModels.deps.json
+C:\Users\Georgi\Desktop\Tube\Tube.Data.DtoModels\bin\Release\netstandard2.0\Tube.Data.DtoModels.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Data.DtoModels\bin\Release\netstandard2.0\Tube.Data.DtoModels.pdb
+C:\Users\Georgi\Desktop\Tube\Tube.Data.DtoModels\bin\Release\netstandard2.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Data.DtoModels\bin\Release\netstandard2.0\Microsoft.Extensions.Identity.Stores.xml
+C:\Users\Georgi\Desktop\Tube\Tube.Data.DtoModels\obj\Release\netstandard2.0\Tube.Data.DtoModels.csprojAssemblyReference.cache
+C:\Users\Georgi\Desktop\Tube\Tube.Data.DtoModels\obj\Release\netstandard2.0\Tube.Data.DtoModels.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\Tube\Tube.Data.DtoModels\obj\Release\netstandard2.0\Tube.Data.DtoModels.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\Tube\Tube.Data.DtoModels\obj\Release\netstandard2.0\Tube.Data.DtoModels.csproj.CopyComplete
+C:\Users\Georgi\Desktop\Tube\Tube.Data.DtoModels\obj\Release\netstandard2.0\Tube.Data.DtoModels.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Data.DtoModels\obj\Release\netstandard2.0\Tube.Data.DtoModels.pdb

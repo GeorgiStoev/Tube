@@ -1,0 +1,81 @@
+﻿@using Tube.Web.ViewModels.Video
+@model WatchVideoViewModel
+@{
+    ViewData["Title"] = "Watch";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link rel="stylesheet" href="~/css/reset-css.css" />
+<link rel="stylesheet" href="~/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/style.css" />
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<div class="text-left pt-3">
+    <video width="1000" height="500" controls>
+        <source src="@Model.VideoUrl" type="video/mp4">
+        <source src="@Model.VideoUrl" type="video/ogg">
+    </video>
+</div>
+<h3 class="text-left pt-2"><strong>@Model.Name</strong></h3>
+<div class="row justify-content-around">
+    <div class="col-5 pt-1">
+        <h5><strong>@Model.Views Views</strong></h5>
+    </div>
+    <div class="col-5 pt-1 m-1">
+        <h5>
+            @Model.Likes.Count Likes
+            <a asp-controller="Videos" asp-action="Like" asp-route-id="@Model.Id" class="btn btn-outline-primary text-left">Like</a>
+            <a asp-controller="Videos" asp-action="UnLike" asp-route-id="@Model.Id" class="btn btn-outline-danger text-right">Dislike</a>
+        </h5>
+    </div>
+</div>
+<div class="row justify-content-around">
+    <div class="col-5">
+        <h5 class="text-left">
+            <strong> @Model.ChannelName</strong>
+            <img width="75" height="75" class="float-left rounded-circle rounded mx-auto d-block" src="@Model.ChannelPicUrl" />
+        </h5>
+        <h5>
+            <small>Published On: @Model.Date</small>
+        </h5>
+        <h5>
+            <small>Category: @Model.Category</small>
+        </h5>
+    </div>
+    <div class="col-5 pt-1">
+        <form action="/Channels/Other/@Model.ChannelId" method="post" class="d-flex justify-content-between">
+            <button class="btn btn-outline-danger text-right">View Channel</button>
+        </form>
+    </div>
+</div>
+<div class="text-center pt-3">
+    <a asp-controller="Playlists" asp-action="Add" asp-route-id="@Model.Id" class="btn btn-primary btn-lg">Add To Playlist</a>
+</div>
+<h3 class="text-center text-primary pt-2">Comments</h3>
+<hr class="w-100 hr-2" />
+@if (Model.Comments.Count != 0)
+{
+    foreach (var comment in Model.Comments.OrderBy(comment => comment.Date))
+    {
+        <div class="row justify-content-around">
+            <div class="col-5">
+                <img width="50" height="50" class="float-left rounded-circle rounded mx-auto d-block" src="@comment.ChannelPicUrl" />
+                <h5 class="text-left"><Small>@comment.TubeUserName</Small></h5>
+                <p class="text-left"><Small>@comment.Date</Small></p>
+                <p class="text-left"><strong>@comment.Text</strong></p>
+            </div>
+            <div class="col-5">
+                <h5 class="text-left pt-3">
+                    @comment.Likes.Count Likes
+                    @{var id = comment.Id; }
+                    <a asp-controller="Comments" asp-action="Like" asp-route-id="@id" class="btn btn-outline-primary text-left">Like</a>
+                    <a asp-controller="Comments" asp-action="UnLike" asp-route-id="@id" class="btn btn-outline-danger text-right">Dislike</a>
+                </h5>
+            </div>
+        </div>
+        <hr class="w-50 hr-2" />
+    }
+}
+<div class="text-center">
+    <a asp-controller="Comments" asp-action="Add" asp-route-id="@Model.Id" class="btn btn-outline-success text-right">Add Comment</a>
+</div>

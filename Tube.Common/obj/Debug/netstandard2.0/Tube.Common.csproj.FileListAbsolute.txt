@@ -1,0 +1,8 @@
+C:\Users\Georgi\Desktop\Tube\Tube.Common\bin\Debug\netstandard2.0\Tube.Common.deps.json
+C:\Users\Georgi\Desktop\Tube\Tube.Common\bin\Debug\netstandard2.0\Tube.Common.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Common\bin\Debug\netstandard2.0\Tube.Common.pdb
+C:\Users\Georgi\Desktop\Tube\Tube.Common\obj\Debug\netstandard2.0\Tube.Common.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\Tube\Tube.Common\obj\Debug\netstandard2.0\Tube.Common.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\Tube\Tube.Common\obj\Debug\netstandard2.0\Tube.Common.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Common\obj\Debug\netstandard2.0\Tube.Common.pdb
+C:\Users\Georgi\Desktop\Tube\Tube.Common\obj\Debug\netstandard2.0\Tube.Common.csproj.CoreCompileInputs.cache

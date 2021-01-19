@@ -1,0 +1,27 @@
+﻿@using Tube.Web.ViewModels.Video
+@model GuestWatchVideoViewModel
+@{
+    ViewData["Title"] = "GuestWatch";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link rel="stylesheet" href="~/css/reset-css.css" />
+<link rel="stylesheet" href="~/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/style.css" />
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<div class="text-left pt-3">
+    <iframe width="1000" height="500"
+            src="@Model.VideoUrl"></iframe>
+</div>
+<h3 class="text-left pt-2"><strong>@Model.Name</strong></h3>
+<h5 class="text-left"><strong>@Model.Views Views</strong></h5>
+<h5 class="text-left">
+    @Model.Likes Likes
+</h5>
+<h5 class="text-left">
+    @Model.Comments Comments
+</h5>
+<h5 class="text-left">
+    Published on: @Model.Date
+</h5>

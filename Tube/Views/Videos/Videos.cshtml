@@ -1,0 +1,39 @@
+﻿@using Tube.Web.ViewModels.Video
+@model List<VideoViewModel>
+@{
+    ViewData["Title"] = "Videos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@*<link href="https://unpkg.com/cloudinary-video-player@1.2.1/dist/cld-video-player.min.css"
+      rel="stylesheet">
+<script src="https://unpkg.com/cloudinary-core@2.6.3/cloudinary-core-shrinkwrap.min.js"
+        type="text/javascript"></script>
+<script src="https://unpkg.com/cloudinary-video-player@1.2.1/dist/cld-video-player.min.js"
+        type="text/javascript"></script>*@
+<link rel="stylesheet" href="~/css/reset-css.css" />
+<link rel="stylesheet" href="~/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/style.css" />
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<h3 class="text-center text-primary pt-3">Videos</h3>
+<hr class="w-50 hr-2" />
+<div class="row justify-content-around">
+    @foreach (var video in Model)
+    {
+        <div class="col-5 pt-1">
+            <div>
+                <div>
+                    <video width="320" height="200">
+                        <source src="@video.VideoUrl#t=3.0" type="video/mp4" />
+                    </video>
+                </div>
+                <p class="align-center">
+                    <h6 class="text-left text-primary pt-1">@video.Name</h6>
+                <p class="text-left font-weight-light"><small><strong>@video.Views Views</strong></small></p>
+                <p class="text-left font-weight-light"><small>Published on: @video.Date</small></p>
+                <a asp-controller="Videos" asp-action="Watch" asp-route-id="@video.Id" class="btn btn-outline-primary text-left">Play</a> 
+            </div>
+        </div>
+    }
+</div>

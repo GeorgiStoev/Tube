@@ -1,0 +1,91 @@
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Test.deps.json
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Test.runtimeconfig.json
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Test.runtimeconfig.dev.json
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Test.dll
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Test.pdb
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Test\obj\Debug\netcoreapp2.2\Tube.Test.csprojAssemblyReference.cache
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Test\obj\Debug\netcoreapp2.2\Tube.Test.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Test\obj\Debug\netcoreapp2.2\Tube.Test.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Test\obj\Debug\netcoreapp2.2\Tube.Test.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Test\obj\Debug\netcoreapp2.2\Tube.Test.dll
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Test\obj\Debug\netcoreapp2.2\Tube.Test.pdb
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Data.dll
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Data.pdb
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Test\obj\Debug\netcoreapp2.2\Tube.Test.csproj.CopyComplete
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Services.dll
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Services.pdb
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Data.Models.dll
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Data.Models.pdb
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Test.deps.json
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Test.runtimeconfig.json
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Test.runtimeconfig.dev.json
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Test.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Test.pdb
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Data.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Data.Models.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Services.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Data.pdb
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Services.pdb
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Data.Models.pdb
+C:\Users\Georgi\Desktop\Tube\Tube.Test\obj\Debug\netcoreapp2.2\Tube.Test.csprojAssemblyReference.cache
+C:\Users\Georgi\Desktop\Tube\Tube.Test\obj\Debug\netcoreapp2.2\Tube.Test.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\Tube\Tube.Test\obj\Debug\netcoreapp2.2\Tube.Test.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\Tube\Tube.Test\obj\Debug\netcoreapp2.2\Tube.Test.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\Tube\Tube.Test\obj\Debug\netcoreapp2.2\Tube.Test.csproj.CopyComplete
+C:\Users\Georgi\Desktop\Tube\Tube.Test\obj\Debug\netcoreapp2.2\Tube.Test.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Test\obj\Debug\netcoreapp2.2\Tube.Test.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Test.deps.json
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Test.runtimeconfig.json
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Test.runtimeconfig.dev.json
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Test.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Test.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Data.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Data.Models.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Services.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Data.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Services.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Data.Models.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\obj\Debug\netcoreapp2.2\Tube.Test.csprojAssemblyReference.cache
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\obj\Debug\netcoreapp2.2\Tube.Test.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\obj\Debug\netcoreapp2.2\Tube.Test.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\obj\Debug\netcoreapp2.2\Tube.Test.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\obj\Debug\netcoreapp2.2\Tube.Test.csproj.CopyComplete
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\obj\Debug\netcoreapp2.2\Tube.Test.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\obj\Debug\netcoreapp2.2\Tube.Test.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Data.DtoModels.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Data.DtoModels.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Web.Views.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Web.Views.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Web.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Web.InputModels.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Web.ViewModels.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Web.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Web.InputModels.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Web.ViewModels.pdb
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Web.Views.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Web.Views.pdb
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Data.DtoModels.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Web.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Web.InputModels.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Web.ViewModels.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Web.pdb
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Data.DtoModels.pdb
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Web.InputModels.pdb
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Web.ViewModels.pdb
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Common.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\Tube.Common.pdb
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\web.config
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\web.Release.config
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Georgi\Desktop\Tube\Tube.Test\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Georgi\Desktop\Tube\Tube.Test\obj\Debug\netcoreapp2.2\Tube.Test.genruntimeconfig.cache

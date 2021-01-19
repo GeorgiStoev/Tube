@@ -1,0 +1,204 @@
+C:\Users\Georgi\source\repos\Tube\Tube\bin\Debug\netcoreapp2.2\Tube.Data.dll
+C:\Users\Georgi\source\repos\Tube\Tube\bin\Debug\netcoreapp2.2\Tube.Domain.dll
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Tube.csprojAssemblyReference.cache
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Tube.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Tube.RazorAssemblyInfo.cache
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Tube.RazorAssemblyInfo.cs
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Tube.AssemblyInfoInputs.cache
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Tube.AssemblyInfo.cs
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Tube.TagHelpers.input.cache
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Tube.TagHelpers.output.cache
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Tube.RazorCoreGenerate.cache
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Error.g.cshtml.cs
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Index.g.cshtml.cs
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Privacy.g.cshtml.cs
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Tube.RazorTargetAssemblyInfo.cache
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Tube.RazorTargetAssemblyInfo.cs
+C:\Users\Georgi\source\repos\Tube\Tube\bin\Debug\netcoreapp2.2\Tube.deps.json
+C:\Users\Georgi\source\repos\Tube\Tube\bin\Debug\netcoreapp2.2\Tube.runtimeconfig.json
+C:\Users\Georgi\source\repos\Tube\Tube\bin\Debug\netcoreapp2.2\Tube.runtimeconfig.dev.json
+C:\Users\Georgi\source\repos\Tube\Tube\bin\Debug\netcoreapp2.2\Tube.dll
+C:\Users\Georgi\source\repos\Tube\Tube\bin\Debug\netcoreapp2.2\Tube.pdb
+C:\Users\Georgi\source\repos\Tube\Tube\bin\Debug\netcoreapp2.2\Tube.Views.dll
+C:\Users\Georgi\source\repos\Tube\Tube\bin\Debug\netcoreapp2.2\Tube.Views.pdb
+C:\Users\Georgi\source\repos\Tube\Tube\bin\Debug\netcoreapp2.2\Tube.Domain.pdb
+C:\Users\Georgi\source\repos\Tube\Tube\bin\Debug\netcoreapp2.2\Tube.Data.pdb
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Tube.Views.pdb
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Tube.csproj.CopyComplete
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Tube.dll
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Tube.pdb
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Georgi\source\repos\Tube\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\bin\Debug\netcoreapp2.2\Tube.deps.json
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\bin\Debug\netcoreapp2.2\Tube.runtimeconfig.json
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\bin\Debug\netcoreapp2.2\Tube.runtimeconfig.dev.json
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\bin\Debug\netcoreapp2.2\Tube.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\bin\Debug\netcoreapp2.2\Tube.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\bin\Debug\netcoreapp2.2\Tube.Views.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\bin\Debug\netcoreapp2.2\Tube.Views.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\bin\Debug\netcoreapp2.2\Tube.Data.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\bin\Debug\netcoreapp2.2\Tube.Domain.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\bin\Debug\netcoreapp2.2\Tube.Domain.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\bin\Debug\netcoreapp2.2\Tube.Data.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.csprojAssemblyReference.cache
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.RazorAssemblyInfo.cache
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.RazorAssemblyInfo.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.TagHelpers.input.cache
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.TagHelpers.output.cache
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.RazorCoreGenerate.cache
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Error.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Index.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Privacy.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.RazorTargetAssemblyInfo.cache
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.RazorTargetAssemblyInfo.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.Views.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.csproj.CopyComplete
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Channels\My.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\bin\Debug\netcoreapp2.2\Tube.Services.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\bin\Debug\netcoreapp2.2\Tube.Services.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Channels\Create.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Channels\Subscribers.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Videos\My.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Videos\Watch.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Videos\Add.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube\bin\Debug\netcoreapp2.2\Tube.deps.json
+C:\Users\Georgi\Desktop\Tube-master\Tube\bin\Debug\netcoreapp2.2\Tube.runtimeconfig.json
+C:\Users\Georgi\Desktop\Tube-master\Tube\bin\Debug\netcoreapp2.2\Tube.runtimeconfig.dev.json
+C:\Users\Georgi\Desktop\Tube-master\Tube\bin\Debug\netcoreapp2.2\Tube.dll
+C:\Users\Georgi\Desktop\Tube-master\Tube\bin\Debug\netcoreapp2.2\Tube.pdb
+C:\Users\Georgi\Desktop\Tube-master\Tube\bin\Debug\netcoreapp2.2\Tube.Views.dll
+C:\Users\Georgi\Desktop\Tube-master\Tube\bin\Debug\netcoreapp2.2\Tube.Views.pdb
+C:\Users\Georgi\Desktop\Tube-master\Tube\bin\Debug\netcoreapp2.2\Tube.Data.dll
+C:\Users\Georgi\Desktop\Tube-master\Tube\bin\Debug\netcoreapp2.2\Tube.Domain.dll
+C:\Users\Georgi\Desktop\Tube-master\Tube\bin\Debug\netcoreapp2.2\Tube.Services.dll
+C:\Users\Georgi\Desktop\Tube-master\Tube\bin\Debug\netcoreapp2.2\Tube.Domain.pdb
+C:\Users\Georgi\Desktop\Tube-master\Tube\bin\Debug\netcoreapp2.2\Tube.Services.pdb
+C:\Users\Georgi\Desktop\Tube-master\Tube\bin\Debug\netcoreapp2.2\Tube.Data.pdb
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Tube.csprojAssemblyReference.cache
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Tube.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Tube.RazorAssemblyInfo.cache
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Tube.RazorAssemblyInfo.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Tube.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Tube.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Tube.TagHelpers.input.cache
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Tube.TagHelpers.output.cache
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Tube.RazorCoreGenerate.cache
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Channels\Create.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Channels\My.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Channels\Subscribers.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Error.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Index.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Privacy.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Videos\Add.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Videos\My.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Videos\Watch.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Tube.RazorTargetAssemblyInfo.cache
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Tube.RazorTargetAssemblyInfo.cs
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Tube.Views.pdb
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Tube.csproj.CopyComplete
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Tube.dll
+C:\Users\Georgi\Desktop\Tube-master\Tube\obj\Debug\netcoreapp2.2\Tube.pdb
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\bin\Debug\netcoreapp2.2\Tube.deps.json
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\bin\Debug\netcoreapp2.2\Tube.runtimeconfig.json
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\bin\Debug\netcoreapp2.2\Tube.runtimeconfig.dev.json
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\bin\Debug\netcoreapp2.2\Tube.dll
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\bin\Debug\netcoreapp2.2\Tube.pdb
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\bin\Debug\netcoreapp2.2\Tube.Views.dll
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\bin\Debug\netcoreapp2.2\Tube.Views.pdb
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\bin\Debug\netcoreapp2.2\Tube.Data.dll
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\bin\Debug\netcoreapp2.2\Tube.Domain.dll
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\bin\Debug\netcoreapp2.2\Tube.Services.dll
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\bin\Debug\netcoreapp2.2\Tube.Domain.pdb
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\bin\Debug\netcoreapp2.2\Tube.Services.pdb
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\bin\Debug\netcoreapp2.2\Tube.Data.pdb
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.csprojAssemblyReference.cache
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.RazorAssemblyInfo.cache
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.RazorAssemblyInfo.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.TagHelpers.input.cache
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.TagHelpers.output.cache
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.RazorCoreGenerate.cache
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Channels\Create.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Channels\My.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Channels\Subscribers.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Error.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Index.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Privacy.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Videos\Add.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Videos\Watch.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.RazorTargetAssemblyInfo.cache
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.RazorTargetAssemblyInfo.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.Views.pdb
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.csproj.CopyComplete
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.dll
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Tube.pdb
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Channels\Other.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Users\Subscriptions.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Comments\Add.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Playlists\Create.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Playlists\Choose.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\History\Videos.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Videos\GuestWatch.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Videos\Search.g.cshtml.cs
+C:\Users\Georgi\Desktop\Tube - Copy - Copy\Tube\obj\Debug\netcoreapp2.2\Razor\Views\Videos\Videos.g.cshtml.cs

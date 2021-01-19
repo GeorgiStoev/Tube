@@ -1,0 +1,33 @@
+﻿@using Tube.Web.ViewModels.Playlist
+@model List<ChoosePlaylistViewModel>
+@{
+    ViewData["Title"] = "Choose";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link rel="stylesheet" href="~/css/reset-css.css" />
+<link rel="stylesheet" href="~/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/style.css" />
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<h4 class="text-center text-primary pt-3">My Playlists</h4>
+<hr class="w-50 hr-2" />
+@if (Model.Count == 0)
+{
+    <h4 class="text-center text-primary pt-3">You have zero Playlists!</h4>
+    <h5 class="text-center text-primary pt-3">Create one?</h5>
+}
+else
+{
+    @foreach (var playlist in Model)
+    {
+        var id = playlist.Id + " " + playlist.VideoId;
+
+        <p align="center">
+            <a asp-controller="Playlists" asp-action="Videos" asp-route-id="@id" class="btn btn-outline-primary text-left">@playlist.Name</a>
+        </p>
+    }
+}
+<p align="center">
+    <a asp-controller="Playlists" asp-action="Create" class="btn btn-danger btn-lg text-center">Create</a>
+</p> 

@@ -1,0 +1,11 @@
+C:\Users\Georgi\Desktop\Tube\Tube.Data\bin\Release\netstandard2.0\Tube.Data.Models.deps.json
+C:\Users\Georgi\Desktop\Tube\Tube.Data\bin\Release\netstandard2.0\Tube.Data.Models.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Data\bin\Release\netstandard2.0\Tube.Data.Models.pdb
+C:\Users\Georgi\Desktop\Tube\Tube.Data\bin\Release\netstandard2.0\Tube.Common.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Data\bin\Release\netstandard2.0\Tube.Common.pdb
+C:\Users\Georgi\Desktop\Tube\Tube.Data\obj\Release\netstandard2.0\Tube.Data.Models.csprojAssemblyReference.cache
+C:\Users\Georgi\Desktop\Tube\Tube.Data\obj\Release\netstandard2.0\Tube.Data.Models.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\Tube\Tube.Data\obj\Release\netstandard2.0\Tube.Data.Models.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\Tube\Tube.Data\obj\Release\netstandard2.0\Tube.Data.Models.csproj.CopyComplete
+C:\Users\Georgi\Desktop\Tube\Tube.Data\obj\Release\netstandard2.0\Tube.Data.Models.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Data\obj\Release\netstandard2.0\Tube.Data.Models.pdb

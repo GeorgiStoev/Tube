@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "a36vU75c+4e9R+6yI0uUOhxDtuyZynFV7UfYs9VRCxFYPc45gxTP0CaSRUtquIqLP3ZH2hhrXlq0ND4wLsvdxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Georgi\\Desktop\\Tube\\Tube.Data.DtoModels\\Tube.Data.DtoModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Georgi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Georgi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

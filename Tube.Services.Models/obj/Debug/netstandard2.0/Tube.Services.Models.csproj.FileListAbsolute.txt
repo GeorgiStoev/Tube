@@ -1,0 +1,14 @@
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Services.Models\bin\Debug\netstandard2.0\Tube.Services.Models.deps.json
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Services.Models\bin\Debug\netstandard2.0\Tube.Services.Models.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Services.Models\bin\Debug\netstandard2.0\Tube.Services.Models.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Services.Models\obj\Debug\netstandard2.0\Tube.Services.Models.csprojAssemblyReference.cache
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Services.Models\obj\Debug\netstandard2.0\Tube.Services.Models.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Services.Models\obj\Debug\netstandard2.0\Tube.Services.Models.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Services.Models\obj\Debug\netstandard2.0\Tube.Services.Models.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Services.Models\obj\Debug\netstandard2.0\Tube.Services.Models.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Services.Models\obj\Debug\netstandard2.0\Tube.Services.Models.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Services.Models\bin\Debug\netstandard2.0\Tube.Data.Models.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Services.Models\bin\Debug\netstandard2.0\Tube.Services.Mapping.dll
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Services.Models\bin\Debug\netstandard2.0\Tube.Data.Models.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Services.Models\bin\Debug\netstandard2.0\Tube.Services.Mapping.pdb
+C:\Users\Georgi\Desktop\Tube - Copy\Tube.Services.Models\obj\Debug\netstandard2.0\Tube.Services.Models.csproj.CopyComplete

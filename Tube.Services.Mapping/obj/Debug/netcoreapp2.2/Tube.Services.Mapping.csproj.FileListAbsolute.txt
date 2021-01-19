@@ -1,0 +1,8 @@
+C:\Users\Georgi\Desktop\Tube\Tube.Services.Mapping\bin\Debug\netcoreapp2.2\Tube.Services.Mapping.deps.json
+C:\Users\Georgi\Desktop\Tube\Tube.Services.Mapping\bin\Debug\netcoreapp2.2\Tube.Services.Mapping.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Services.Mapping\bin\Debug\netcoreapp2.2\Tube.Services.Mapping.pdb
+C:\Users\Georgi\Desktop\Tube\Tube.Services.Mapping\obj\Debug\netcoreapp2.2\Tube.Services.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\Tube\Tube.Services.Mapping\obj\Debug\netcoreapp2.2\Tube.Services.Mapping.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\Tube\Tube.Services.Mapping\obj\Debug\netcoreapp2.2\Tube.Services.Mapping.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\Tube\Tube.Services.Mapping\obj\Debug\netcoreapp2.2\Tube.Services.Mapping.dll
+C:\Users\Georgi\Desktop\Tube\Tube.Services.Mapping\obj\Debug\netcoreapp2.2\Tube.Services.Mapping.pdb
